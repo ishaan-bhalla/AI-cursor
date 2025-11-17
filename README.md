@@ -1,6 +1,6 @@
 ## AI-Cursor 
 
-AI-Cursor is a hand-gesture controlled virtual mouse that lets you move your cursor, click, drag, and perform actions without touching your physical mouse — powered by computer vision.
+AI-Cursor is a hand-gesture controlled virtual mouse that lets you move your cursor, click, drag, and perform actions without touching your physical mouse powered by computer vision.
 
 It uses:
 - OpenCV (live camera feed)
