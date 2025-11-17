@@ -12,13 +12,13 @@ This project allows you to control your computer by simply moving your hand in f
 
 ## 📸 Demo
 ### Hand Tracking Mode
-![Hand Tracking](/Users/ishaanbhalla/Developer/College/AI-mouse/images/image1.png)
+![Hand Tracking](/images/image1.png)
 ### Cursor Moving Mode
-![Cursor Moving](/Users/ishaanbhalla/Developer/College/AI-mouse/images/image2.png)
+![Cursor Moving](/images/image2.png)
 ### Single Click Mode
-![Single Click](/Users/ishaanbhalla/Developer/College/AI-mouse/images/image3.png)
+![Single Click](/images/image3.png)
 ### Double Click Mode
-![Double Click](/Users/ishaanbhalla/Developer/College/AI-mouse/images/image4.png)
+![Double Click](/images/image4.png)
 
 ## 🚀 Features
 1. ✔️ Cursor Movement
